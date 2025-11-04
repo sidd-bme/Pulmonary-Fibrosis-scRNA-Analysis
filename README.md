@@ -5,7 +5,7 @@ This is the final project for the PHM5005 course at NUS. This repository contain
 ## 📄 Final Project Report
 
 The complete, detailed report for this project, including all figures and analysis, is available here:
-**[View the Full Project Report (PDF)](final_phm5005_report.pdf)**
+**[View the Full Project Report (PDF)](final_phm5005_report.pdf)** (p.s. click 'more pages' at the bottom of the PDF to view all the pages if you don't want to download)
 
 ---
 
