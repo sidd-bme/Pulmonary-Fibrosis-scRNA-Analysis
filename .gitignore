@@ -9,3 +9,7 @@ GSE122960_data/
 
 # Python cache
 __pycache__/
+
+# large .h5 file
+analysis_results_clean/processed_adata_cache.h5ad
+
